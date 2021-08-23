@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi, I'm Gideon 👋
 
+
+🔭 I’m currently working on [quick-quiz](https://github.com/yeboah326/quick-quiz) as a side project
+
+🌱 I’m currently learning 
+  - Unit testing with pytest in a flask application 
+  - Building responsive UI with react
 <!--
 **yeboah326/yeboah326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
