@@ -4,6 +4,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-0a3069?style=flat-square&logo=python&logoColor=yellow"/>
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white"/>
+  <img alt="Django" src="https://img.shields.io/badge/-Django-009603?style=flat-square&logo=django&logoColor=white"/>
   <img alt="Postgres" src="https://img.shields.io/badge/-Postgres-0a3069?style=flat-square&logo=postgresql&logoColor=white"/>
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
