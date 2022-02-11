@@ -1,4 +1,5 @@
 ### Hi, I'm Gideon 👋
+#### Technologies
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-e8ff00?style=flat-square&logo=javascript&logoColor=black"/>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -9,7 +10,15 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
 
+#### Contact me
+<p>
+  <a href="https://github.com/yeboah326" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+  <a href="https://twitter.com/__ultron" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/gideon-yeboah-a-81258a142/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
 
+
+#### About me
 😄 Pronouns: He/Him/Me
 
 🔭 I’m currently working on an expense tracking application using ReactJS for the frontend and Flask for the backend
