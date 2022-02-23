@@ -21,12 +21,12 @@
 #### About me
 😄 Pronouns: He/Him/Me
 
-🔭 I’m currently working on an expense tracking application using ReactJS for the frontend and Flask for the backend
+🔭 I’m currently working on a vehicle rental application using ReactJS for the frontend, Flask for the API and PostgreSQL for the database.
 
   
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yeboah326&repo=xpense&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yeboah326&repo=v-rentals&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
   
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yeboah326&repo=xpense-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=yeboah326&repo=v-rentals-api&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 🌱 I’m currently learning 
   - Building responsive UI with react
