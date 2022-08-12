@@ -39,9 +39,9 @@
   
   ![Gideon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeboah326&show_icons=true&theme=cobalt)
     
-  [![Gideon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_ultron)](https://github.com/yeboah326)
+  [![Gideon's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=_ultron&count_private=true&theme=cobalt&langs_count=10)](https://github.com/yeboah326)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeboah326&lang_count=10)](https://github.com/yeboah326)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeboah326&lang_count=10&theme=cobalt)](https://github.com/yeboah326)
 
 </p>
 
